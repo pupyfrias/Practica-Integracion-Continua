@@ -1,0 +1,11 @@
+{
+  "name": "practica-integracion-continua",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
